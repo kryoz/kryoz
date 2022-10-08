@@ -1,0 +1,18 @@
+### My stack 🚀
+
+[![GO](https://img.shields.io/badge/GoLang-ffffff?style=for-the-badge&logo=go&color=7fd5ea&logoColor=ffffff)](#)
+[![PHP](https://img.shields.io/badge/PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white&color=777BB4)](#)
+[![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)](#)
+[![K8S](https://img.shields.io/badge/kubernetes-%FCC624.svg?style=for-the-badge&logo=kubernetes&logoColor=black&color=FCC624)](#)
+[![Symfony](https://img.shields.io/badge/symfony-%FF2D20.svg?style=for-the-badge&logo=symfony&logoColor=white&color=FF2D20)](#)
+[![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)](#)
+[![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)](#)
+[![OpenAPI](https://img.shields.io/badge/Open_API-white?style=for-the-badge&logo=swagger&color=38b832&logoColor=ffffff)](#)
+[![PostgreSQL](https://img.shields.io/badge/postgreSQL-%4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)](#)
+[![DOCKER](https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=ffffff)](#)
+[![REDIS](https://img.shields.io/badge/Redis-43853D?style=for-the-badge&logo=redis&logoColor=white&color=A41F16)](#)
+[![JETBRAINS](https://img.shields.io/badge/Jet%20Brains-00C58E?style=for-the-badge&logo=jetbrains&color=000000&logoColor=ffffff)](#)
+[![NGINX](https://img.shields.io/badge/NGINX-%FF2D20.svg?style=for-the-badge&logo=nginx&logoColor=white&color=00B140)](#)
+[![ApacheKafka](https://img.shields.io/badge/Apache_Kafka-ffffff?style=for-the-badge&logo=apachekafka&color=222222&logoColor=white)](#)
+[![YaCloud](https://img.shields.io/badge/Yandex_Cloud-5282ff?style=for-the-badge&logo=yandex-cloud&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-ffcc00?style=for-the-badge&logo=grafana&logoColor=white)](#)
